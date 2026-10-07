@@ -1,2 +1,1 @@
-pip install django
-django-admin startproject
+django-admin startproject config .
