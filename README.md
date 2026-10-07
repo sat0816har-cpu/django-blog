@@ -1,1 +1,2 @@
-# Django Blog
+pip install django
+django-admin startproject
