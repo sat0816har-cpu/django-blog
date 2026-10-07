@@ -1,2 +1,1 @@
-pwd
-ls -la
+django-admin --version
